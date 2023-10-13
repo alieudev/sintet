@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+public/default.png
+public/kev.jpeg
+public/sintet_codecommit_credentials.csv
